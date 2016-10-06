@@ -1,1 +1,3 @@
-# regularSeminar
+# 하나와영 정기모임 세미나 렉쳐자료
+
+* 1. 깃 by Nicholas Kim(2016-09-26)
